@@ -1,0 +1,23 @@
+h1{
+    color: blue;
+    font-size: 16px;
+}
+
+h1{
+    color: red;
+    font-size: 16px;
+}
+
+header{
+    background-color: red;
+}
+
+#site-header {
+    background-color: rosybrown;
+}
+.encabezado {
+    color: seagreen;
+}
+.mayusculas{
+    text-transform: uppercase;
+}
